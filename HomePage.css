@@ -1,0 +1,82 @@
+.homepage {
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .homepage-content {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .homepage-title {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .homepage-description {
+    color: #ccc;
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 40px;
+  }
+  
+  .car-image {
+    width: 500px;
+    height: 300px;
+    background-image: url('https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220606055116_BMW_M_Hybrid_V8_front.jpg&w=700&q=90&c=1');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 40px;
+  }
+  
+  .homepage-details {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .detail-item {
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .detail-item:hover {
+    transform: scale(1.1);
+  }
+  
+  .detail-item i {
+    margin-right: 10px;
+    font-size: 24px;
+    color: #fff;
+  }
+  
+  .detail-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .detail-label {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .detail-value {
+    color: #ccc;
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+  }
+  
