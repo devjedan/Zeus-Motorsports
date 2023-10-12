@@ -2,7 +2,7 @@
 
 ## Description
 
-The Zeus Motorsports Prototype Website is a web development project aimed at creating a responsive and user-friendly website for our college racing car group, Zeus Motorsports. This project showcases our team's dedication to enhancing our online presence and engaging with our audience effectively.
+The Zeus Motorsports Website is a web development project aimed at creating a responsive and user-friendly website for our college racing car group, Zeus Motorsports. This project showcases our team's dedication to enhancing our online presence and engaging with our audience effectively.
 
 ## Technologies Used
 
